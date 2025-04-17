@@ -361,7 +361,7 @@ const Login = (props: LoginProps) => {
                   {t("welcome_back")}
                 </CardTitle>
                 <CardDescription>
-                  Choose your login method to continue
+                  {t("choose_your_login_method_to_continue")}
                 </CardDescription>
               </CardHeader>
               <CardContent>
