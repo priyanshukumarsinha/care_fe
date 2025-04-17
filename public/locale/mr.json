@@ -93,5 +93,7 @@
   "allergies": "अॅलर्जी",
   "is_pregnant": "गर्भवती आहे",
   "welcome_back": " पुन्हा स्वागत आहे",
-  "enter_phone_number": "फोन नंबर प्रविष्ट करा "
+  "enter_phone_number": "फोन नंबर प्रविष्ट करा ",
+  "change_phone_number": "फोन नंबर बदला",
+  "send_otp": "OTP पाठवा"
 }
