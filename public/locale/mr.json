@@ -54,7 +54,6 @@
   "password_reset_failure": "पासवर्ड रिसेट झाला नाही",
   "password_reset_success": "पासवर्ड यशस्वीपणे रिसेट झाला",
   "password_sent": "पासवर्ड रिसेट झाला इमेल पाठवला",
-  "phone_number": "दूरध्वनी क्रमांक",
   "register_hospital": "हॉस्पिटलचे नाव नोंदवा",
   "register_page_title": "हॉस्पिटल व्यवस्थापक म्हणून नोंदणी करा",
   "reset": "रीसेट करा",
@@ -94,5 +93,6 @@
   "ongoing_medications": "चालू औषधे",
   "allergies": "अॅलर्जी",
   "is_pregnant": "गर्भवती आहे",
-  "welcome_back": " पुन्हा स्वागत आहे"
+  "welcome_back": " पुन्हा स्वागत आहे",
+  "enter_phone_number": "फोन नंबर प्रविष्ट करा "
 }
