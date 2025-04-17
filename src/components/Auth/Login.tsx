@@ -358,7 +358,7 @@ const Login = (props: LoginProps) => {
             <Card className="mx-4">
               <CardHeader className="space-y-1 px-4">
                 <CardTitle className="text-2xl font-bold">
-                  Welcome back
+                  {t("welcome_back")}
                 </CardTitle>
                 <CardDescription>
                   Choose your login method to continue
