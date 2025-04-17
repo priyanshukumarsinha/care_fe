@@ -804,5 +804,9 @@
   "zoom_out": "ಜೂಮ್ ಔಟ್",
   "change_phone_number": "ಫೋನ್ ಸಂಖ್ಯೆ ಬದಲಾಯಿಸಿ",
   "resend_otp": "OTP ಮರುಕಳುಹಿಸಿ",
-  "resend_otp_timer": "{{time}} ಸೆಕೆಂಡುಗಳಲ್ಲಿ OTP ಮರುಕಳುಹಿಸಿ"
+  "resend_otp_timer": "{{time}} ಸೆಕೆಂಡುಗಳಲ್ಲಿ OTP ಮರುಕಳುಹಿಸಿ",
+  "verify_otp": "OTP ದೃಢೀಕರಿಸಿ",
+  "verify_otp_error": "OTP ದೃಢೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+  "verify_otp_success": "OTP ಯಶಸ್ವಿಯಾಗಿ ದೃಢೀಕರಿಸಲಾಗಿದೆ.",
+  "verify_otp_success_login": "OTP ಯಶಸ್ವಿಯಾಗಿ ದೃಢೀಕರಿಸಲಾಗಿದೆ. ಲಾಗಿನ್ ಆಗುತ್ತಿದೆ."
 }

@@ -97,5 +97,9 @@
   "change_phone_number": "फोन नंबर बदला",
   "send_otp": "OTP पाठवा",
   "resend_otp": "OTP पुन्हा पाठवा",
-  "resend_otp_timer": "{{time}} सेकंदांत OTP पुन्हा पाठवा"
+  "resend_otp_timer": "{{time}} सेकंदांत OTP पुन्हा पाठवा",
+  "verify_otp": "OTP ची पुष्टी करा",
+  "verify_otp_error": "OTP ची पुष्टी करण्यात अपयश. कृपया नंतर पुन्हा प्रयत्न करा.",
+  "verify_otp_success": "OTP यशस्वीरित्या पुष्टी करण्यात आला आहे.",
+  "verify_otp_success_login": "OTP यशस्वीरित्या पुष्टी करण्यात आला आहे. लॉगिन करत आहोत."
 }

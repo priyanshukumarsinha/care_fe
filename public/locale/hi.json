@@ -803,6 +803,9 @@
   "zoom_out": "ज़ूम आउट",
   "change_phone_number": 	"फोन नंबर बदलें",
   "resend_otp": "OTP दोबारा भेजें",
-  "resend_otp_timer": "{{time}} सेकंड में OTP दोबारा भेजें"
-
+  "resend_otp_timer": "{{time}} सेकंड में OTP दोबारा भेजें",
+  "verify_otp": "OTP की पुष्टि करें",
+  "verify_otp_error": "OTP की पुष्टि विफल रही। कृपया बाद में पुनः प्रयास करें।",
+  "verify_otp_success": "OTP सफलतापूर्वक पुष्टि की गई है।",
+  "verify_otp_success_login": "OTP सफलतापूर्वक पुष्टि की गई है। लॉगिन किया जा रहा है।"
 }
