@@ -95,5 +95,7 @@
   "welcome_back": " पुन्हा स्वागत आहे",
   "enter_phone_number": "फोन नंबर प्रविष्ट करा ",
   "change_phone_number": "फोन नंबर बदला",
-  "send_otp": "OTP पाठवा"
+  "send_otp": "OTP पाठवा",
+  "resend_otp": "OTP पुन्हा पाठवा",
+  "resend_otp_timer": "{{time}} सेकंदांत OTP पुन्हा पाठवा"
 }

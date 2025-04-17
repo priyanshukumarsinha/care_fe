@@ -801,5 +801,7 @@
   "you_need_at_least_a_location_to_create_an_assest": "ஒரு அசெஸ்ட்டை உருவாக்க குறைந்தபட்சம் ஒரு இருப்பிடமாவது தேவை.",
   "zoom_in": "பெரிதாக்கவும்",
   "change_phone_number": "தொலைபேசி எண்ணை மாற்றவும்",
-  "zoom_out": "பெரிதாக்கவும்"
+  "zoom_out": "பெரிதாக்கவும்",
+  "resend_otp": "OTP மீண்டும் அனுப்பவும்",
+  "resend_otp_timer": "{{time}} விநாடிகளில் OTP மீண்டும் அனுப்பவும்"
 }

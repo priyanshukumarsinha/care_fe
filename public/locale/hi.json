@@ -801,6 +801,8 @@
   "you_need_at_least_a_location_to_create_an_assest": "संपत्ति बनाने के लिए आपको कम से कम एक स्थान की आवश्यकता होगी।",
   "zoom_in": "ज़ूम इन",
   "zoom_out": "ज़ूम आउट",
-  "change_phone_number": 	"फोन नंबर बदलें"
+  "change_phone_number": 	"फोन नंबर बदलें",
+  "resend_otp": "OTP दोबारा भेजें",
+  "resend_otp_timer": "{{time}} सेकंड में OTP दोबारा भेजें"
 
 }
